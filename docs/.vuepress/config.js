@@ -15,6 +15,21 @@ module.exports = {
         {text: '插件', link: '/plugin/'},
         { text: 'React', link: '/react/' },
         {
+          text: '面试',
+          ariLabel: 'interView',
+          items: [  //多级导航栏
+              { text: '58', link: '/interView/58/' },
+              { text: 'other', link: '/interView/other/' },
+          ]
+        },
+        {
+          text: '学习',
+          ariLabel: 'learn',
+          items: [  //多级导航栏
+              { text: 'Js方法/思路', link: '/learn/index/' }
+          ]
+        },
+        {
           text: 'es6(ryf)',
           ariLabel: 'es6',
           items: [  //多级导航栏
