@@ -32,6 +32,8 @@ module.exports = {
         items: [
           //多级导航栏
           { text: 'Js方法/思路', link: '/learn/index/' },
+          { text: 'TS-骚操作写法', link: '/learn/ts/' },
+          { text: 'TS-使用用例', link: '/learn/ts_demo/' },
           {
             text: '开发中产品的各版本定义(beta,alpha,rc,release)',
             link: '/learn/version/',
