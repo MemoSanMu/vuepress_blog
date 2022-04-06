@@ -35,6 +35,10 @@ module.exports = {
           { text: 'TS-骚操作写法', link: '/learn/ts/' },
           { text: 'TS-使用用例', link: '/learn/ts_demo/' },
           {
+            text: 'TS-常量断言（语法写作 as const）',
+            link: '/learn/ts_const/',
+          },
+          {
             text: '开发中产品的各版本定义(beta,alpha,rc,release)',
             link: '/learn/version/',
           },
